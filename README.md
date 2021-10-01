@@ -1,6 +1,9 @@
 # recipes-with-spring
 
 
+A multi-user web service with Spring Boot that allows storing, retrieving, updating, and deleting recipes. 
+
+
 ## Examples
 **Example 1**: POST /api/recipe/new request without authentication
 
